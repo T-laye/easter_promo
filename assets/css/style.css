@@ -35,6 +35,18 @@ audio {
   justify-content: center;
   align-items: center;
   margin: auto;
+  position: relative;
+}
+.happy_easter {
+  position: absolute;
+  bottom: -30px;
+  right: -5px;
+  text-align: end;
+  width: 150px;
+}
+
+.happy_easter img {
+  width: 100%;
 }
 
 .img-container .decors {
